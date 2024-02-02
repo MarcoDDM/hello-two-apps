@@ -3,4 +3,3 @@ class GreetingsController < ApplicationController
     render json: { greeting: Greeting.order('RANDOM()').first.message }
   end
 end
-
