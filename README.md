@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <h1>React front-end and RoR back-end</h1>
+  <h1>RoR back-end</h1>
   <br/>
 
 </div>
@@ -40,9 +40,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 PennyWise | BudgetApp <a name="about-project"></a>
+# 📖 Hello World | Two Apps <a name="about-project"></a>
 
-This is a project to learn how to install a front end with React and a backend with RoR.
+This is a project to learn how to install a front end with React and a backend with RoR. 
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -53,13 +53,6 @@ This is a project to learn how to install a front end with React and a backend w
   <summary>Ruby</summary>
   <ul>
     <li><a href="https://Ruby.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>RoR</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Express.js</a></li>
   </ul>
 </details>
 
@@ -85,6 +78,10 @@ This is a project to learn how to install a front end with React and a backend w
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Not apply]
+
+## FRONT END URL
+
+- FRONT END URL [@MarcoDDM](https://github.com/MarcoDDM/react-two-apps/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
